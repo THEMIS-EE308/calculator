@@ -6,3 +6,5 @@ of scientific calculator.
 # calculator_III
 · Updated modified interest rate table；  
 · Fixed a bug where the demand deposit duration unit was incorrect.
+# calculator_IV
+· Fixed 'Missing jump buttons between different types of calculators' issue.
